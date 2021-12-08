@@ -10,5 +10,4 @@ chave
 enfermeiro
 chafariz
 morango
-ramificaçao
 caractere
