@@ -147,7 +147,7 @@ def marca_chute_correto(chute, letras_acertadas, palavra_secreta):
             letras_acertadas[index] = letra
         index += 1
 
-def imprime_mensagem_vencedor():
+def imprime_mensagem_vencedor(palavra_secreta):
     print("Parabéns, você ganhou!")
     print("       ___________      ")
     print("      '._==_==_=_.'     ")
