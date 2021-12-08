@@ -11,3 +11,10 @@ enfermeiro
 chafariz
 morango
 caractere
+camera
+lanterna
+radio
+televisao
+computador
+notebook
+geladeira
